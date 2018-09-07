@@ -184,6 +184,7 @@ export default {
     },
     setSearchHome() {
       this.allByName = true;
+      this.filterBy.name = this.filterBy.name.toLowerCase(); 
       // console.log('setSearchHome in -cmp');
       this.$store
         .dispatch({ type: "setSearchHome", filterBy: this.filterBy })

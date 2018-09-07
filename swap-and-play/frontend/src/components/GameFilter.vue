@@ -80,6 +80,7 @@ export default {
   },
   methods: {
     setFilter: debounce(function() {
+      this.filterBy.name = this.filterBy.name.toLowerCase();  
       var filterBy = JSON.parse(JSON.stringify(this.filterBy));
       this.$store.dispatch({ type: "setFilter", filterBy }).then(games => {});
     }, 500),
