@@ -13,7 +13,7 @@
             backgroundSize: 'cover', backgroundPosition: 'center', backgroundrepeat: 'no-repeat'}">
         </div>  
         <h1>Tally Affek</h1>
-        <h3 class="secondary-haeder">Full Stuck Developer</h3>
+        <h3 class="secondary-haeder">Full Stack Developer</h3>
         <div class="icons-container flex">
           <a class="link" href="https://github.com/tallyaff" target="_blank"><i class="fab fa-github-square"></i></a> 
           <a class="link" href="https://www.linkedin.com/in/tally-affek-7b3a12140/" target="_blank"><i class="fab fa-linkedin"></i></a>
@@ -30,7 +30,7 @@
             backgroundSize: 'cover', backgroundPosition: 'center', backgroundrepeat: 'no-repeat'}">
         </div>  
         <h1>Liron Reshef Steinberger</h1>
-        <h3 class="secondary-haeder">Full Stuck Developer</h3>
+        <h3 class="secondary-haeder">Full Stack Developer</h3>
         <div class="icons-container flex">
           <a class="link" href="https://github.com/LironReshefSteinberger" target="_blank"><i class="fab fa-github-square"></i></a> 
           <a class="link" href="https://www.facebook.com/liron.reshef.1" target="_blank"><i class="fab fa-facebook"></i></a> 
@@ -50,7 +50,7 @@
             backgroundSize: 'cover', backgroundPosition: 'center', backgroundrepeat: 'no-repeat'}">
         </div>  
         <h1>Adi Gonnen</h1>
-        <h3 class="secondary-haeder">Full Stuck Developer</h3>
+        <h3 class="secondary-haeder">Full Stack Developer</h3>
         <div class="icons-container flex">
           <a class="link" href="https://github.com/adi-gonnen" target="_blank"><i class="fab fa-github-square"></i></a> 
           <a class="link" href="https://www.facebook.com/adi.shachamgonnen" target="_blank"><i class="fab fa-facebook"></i></a> 
